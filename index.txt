@@ -4,7 +4,7 @@ Hoolix - Smart Ideas for your Brand are Here
 
 #---------- HEADER ----------#
 
-Hoolix
+HMagentaMinds
 
 aria-label = close menu
 
@@ -179,20 +179,20 @@ Contact Us
 Contact Us
 
 <ion-icon name="location" aria-hidden="true"></ion-icon>
-4517 Washington Ave. Manchester, Kentucky 39495
+Mumbai, Maharashtra.
 
 <ion-icon name="call" aria-hidden="true"></ion-icon>
 +7894631546876
 
 <ion-icon name="mail" aria-hidden="true"></ion-icon>
-info@hoolix.com
+magentaminds976@gmail.com
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
 <ion-icon name="logo-instagram"></ion-icon>
 <ion-icon name="logo-pinterest"></ion-icon>
 
-&copy; 2022 Hoolix | All Rights Reserved by codewithsadee
+&copy; 2022 MagentaMinds | All Rights Reserved by Lalu Sah
 
 Privacy Policy
 Terms of Use
