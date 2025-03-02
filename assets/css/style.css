@@ -2,6 +2,10 @@
   #style.css
 \*-----------------------------------*/
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
 /**
  * copyright 2022 codewithsadee
  */
@@ -40,11 +44,14 @@
    * typography
    */
 
-  --ff-poppins: 'Poppins', sans-serif;
-  --ff-cuprum: 'Cuprum', sans-serif;
+  /* --ff-poppins: 'Poppins', sans-serif;
+  --ff-cuprum: 'Cuprum', sans-serif; */
 
-  --fs-1: 4.5rem;
-  --fs-2: 3.6rem;
+  --ff-poppins: 'Plus Jakarta Sans', sans-serif;
+  --ff-cuprum: 'Urbanist', sans-serif;
+
+  --fs-1: 4rem;
+  --fs-2: 3rem;
   --fs-3: 3.5rem;
   --fs-4: 3.2rem;
   --fs-5: 2.5rem;
@@ -223,6 +230,7 @@ body {
 }
 
 .btn-primary {
+  font-family: "Varela Round", sans-serif;
   background-color: var(--go-green);
   color: var(--white);
 }
@@ -1197,7 +1205,7 @@ body {
      * typography
      */
 
-    --fs-1: 7.5rem;
+    --fs-1: 6.9rem;
     --fs-4: 3.8rem;
 
   }
