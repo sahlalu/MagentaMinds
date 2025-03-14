@@ -329,7 +329,7 @@ body {
   max-width: 280px;
   width: 100%;
   height: 100%;
-  background-color: var(--rich-black-fogra-39);
+  background-color: #f8f8f8;
   color: var(--white);
   padding: 30px 20px;
   visibility: hidden;
