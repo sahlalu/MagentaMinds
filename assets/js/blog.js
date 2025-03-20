@@ -1,5 +1,5 @@
 const blogContainer = document.getElementById('blog-cards-container');
-const apiKey = 'AIzaSyALvMrBtPzIuQnfHSaB2D2wq3XsajiTuPg'; // Replace with your actual API Key
+const apiKey = ''; // Replace with your actual API Key
 const blogId = '6407447980196247561'; // Your Blogger Blog ID
 const apiUrl = `https://www.googleapis.com/blogger/v3/blogs/${blogId}/posts?key=${apiKey}`;
 

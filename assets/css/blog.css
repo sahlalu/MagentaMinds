@@ -111,26 +111,27 @@ h3 {
     }
 
     .blog-cards-container {
-        flex-direction: column; /* Cards in single column */
+        display: block !important;  /* Force block display */
+        width: 100% !important;     /* Ensure full width */
         padding: 10px;
     }
 
     .blog-card {
-        width: 100%; /* Full width for better use of space */
-        max-width: 320px; 
+        width: 100% !important;     /* Full width for each card */
+        margin-bottom: 15px;        /* Space between cards */
     }
 
     .blog-image {
-        height: 140px; /* Compact image size for mobile */
+        height: 200px;             /* Larger image for better visual */
     }
 
     h3 {
-        font-size: 15px;
-        padding: 8px;
+        font-size: 16px;
+        padding: 10px;
     }
 
     .read-more-btn {
-        padding: 6px 0;
-        font-size: 14px;
+        padding: 8px 0;
+        font-size: 15px;
     }
 }
